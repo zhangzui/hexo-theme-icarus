@@ -18,8 +18,8 @@ customize:
         avatar: css/images/logo.jpg
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: 张最最
-        author_title: Web Developer & Designer
-        location: Harbin, China
+        author_title: java Developer & Designer
+        location: China BeiJing
         follow: https://github.com/zhangzui
     highlight: monokai
     sidebar: right # sidebar position, options: left, right or leave it empty
@@ -48,6 +48,16 @@ search:
     swiftype: # enter swiftype install key here
     baidu: false # you need to disable other search engines to use Baidu search, options: true, false
 
+# Automatically Excerpt. Not recommand.
+# Please use <!-- more --> in the post to control excerpt accurately.
+auto_excerpt:
+  enable: true
+  length: 150
+
+作者：CGPointZero
+链接：https://www.jianshu.com/p/393d067dba8d
+來源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 # Comment
 comment:
     disqus:  # enter disqus shortname here
