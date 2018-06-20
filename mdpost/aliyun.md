@@ -1,5 +1,5 @@
 #阿里云软件安装
-阿里云软件安装
+![](./source/images/12564740_xl.jpg "")
 <!--more-->
 #1.安装mysql
 https://blog.csdn.net/birthmarkqiqi/article/details/50597211/
