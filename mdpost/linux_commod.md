@@ -1,5 +1,5 @@
 #linux常用命令介绍
-![](./source/images/15915100635_fdd8bc8554_k.jpg "")
+![](/images/15915100635_fdd8bc8554_k.jpg "")
 linux常用命令介绍
 <!--more-->
 ##ssh登录

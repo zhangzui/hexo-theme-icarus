@@ -1,5 +1,5 @@
 # my-sharding-jdbc
-![](./source/images/12564740_xl.jpg "")
+![](/images/12564740_xl.jpg "")
 ShardingJDBC001简单的例子，配置信息的初始化,以及源码解析
 <!--more-->
 ## 使用示例
