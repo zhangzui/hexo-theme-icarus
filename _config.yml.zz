@@ -1,9 +1,9 @@
 # Menus
 menu:
-  Home: home
-  Archives: archive
-  Tags: tags
-  About: about
+  首页: home
+  归档: archive
+  标签: tags
+  关于: about
 
 # Customize
 customize:
