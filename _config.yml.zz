@@ -1,7 +1,7 @@
 # Menus
 menu:
   Home: home
-  Archives: archives
+  Archives: archive
   Tags: tags
   About: about
 
@@ -27,6 +27,10 @@ customize:
     favicon: # path to favicon
     social_links:
         github: http://github.com/zhangzui/hexo-theme-icarus
+        twitter: /
+        facebook: /
+        dribbble: /
+        rss: /
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
 # Widgets
@@ -74,7 +78,7 @@ comment:
         notify: # enter true to enable <Mail notifier> https://github.com/xCss/Valine/wiki/Valine-%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E9%82%AE%E4%BB%B6%E6%8F%90%E9%86%92%E8%AE%BE%E7%BD%AE
         verify: # enter true to enable <Validation code>
         placeholder: Just Do It # enter the comment box placeholder
-    
+
 
 # Share
 share: default # options: jiathis, bdshare, addtoany, default
@@ -90,6 +94,10 @@ plugins:
 
 # Miscellaneous
 miscellaneous:
-
+    open_graph: # see http://ogp.me
+        fb_app_id:
+        fb_admins:
+        twitter_id:
+        google_plus:
     links:
         GitHub: https://zhangzui.github.io/
