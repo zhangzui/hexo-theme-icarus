@@ -1,6 +1,8 @@
-#了解JDBC的超时机制
-![](/images/33922601146_fb9867b205_k.jpg "")
-了解JDBC的超时机制
+---
+title: 了解JDBC的超时机制
+---
+![](/images/jdbc_timeout.jpg "")
+了解JDBC的超时机制，了解statement timeout和transaction timeout以及socket timeout
 <!--more-->
 ##一、超时优先级
 1.只有当低级别的timeout无误时，高级别的timeout才能确保正常。

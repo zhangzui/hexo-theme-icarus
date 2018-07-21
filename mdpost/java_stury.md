@@ -1,5 +1,8 @@
-#java工程师必须了解的知识
-![](/images/32736018454_5c3640c512_k.jpg "")
+---
+title: java工程师必须了解的知识
+---
+
+![](/images/java_stury.jpg "")
 java工程师必须了解的知识
 <!--more-->
 #一.java基础知识

@@ -1,5 +1,9 @@
-#java-synchronized锁相关内存
-![](/images/32736018454_5c3640c512_k.jpg "")
+---
+title: java-synchronized锁相关内存
+---
+
+
+![](/images/java_lock.jpg "")
 当多个线程同时请求某个对象监视器时，对象监视器会设置几种状态用来区分请求的线程：
 <!--more-->
 ```

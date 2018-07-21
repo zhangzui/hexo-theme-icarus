@@ -1,5 +1,7 @@
-#java类加载器
-![](/images/12564740_xl.jpg "")
+---
+title: java类加载器
+---
+![](/images/classload.jpg "")
 生成class文件格式：javap -verbose TestVolatile > TestVolatile.txt
 <!--more-->
 ##类加载机制

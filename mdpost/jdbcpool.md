@@ -1,6 +1,8 @@
-#数据连接池DBCP
-![](/images/33922601146_fb9867b205_k.jpg "")
-数据连接池DBCP
+---
+title: 数据连接池DBCP
+---
+![](/images/dbcppool.jpg "")
+数据连接池DBCP,参数配置信息
 <!--more-->
 ##参数介绍：
 ```

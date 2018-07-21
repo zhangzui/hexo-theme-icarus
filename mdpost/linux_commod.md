@@ -1,5 +1,7 @@
-#linux常用命令介绍
-![](/images/15915100635_fdd8bc8554_k.jpg "")
+---
+title: linux常用命令介绍
+---
+![](/images/linuxcomand.jpg "")
 linux常用命令介绍
 <!--more-->
 ##ssh登录

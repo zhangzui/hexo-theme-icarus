@@ -1,5 +1,7 @@
-#JVM优化
-![](/images/33922601146_fb9867b205_k.jpg "")
+---
+title: JVM优化
+---
+![](/images/jvmpreform.jpg "")
 JVM优化
 <!--more-->
 ###jvm参数：
