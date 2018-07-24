@@ -12,8 +12,8 @@ nav:
     newer: '上一篇'
 widget:
     recents: '最新文章'
-    archives: '归档'
-    categories: '分类'
+    archives: '文章归档'
+    categories: '分类目录'
     links: '链接'
     tags: '标签'
     tag_cloud: '标签云'
