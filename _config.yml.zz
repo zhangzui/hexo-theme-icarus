@@ -35,7 +35,6 @@ customize:
 
 # Widgets
 widgets:
-    - site_common
     - recent_posts
     - category
     - archive
