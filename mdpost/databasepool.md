@@ -1,5 +1,12 @@
 ---
 title: DBCP数据连接池
+date: 2018-06-01 23:47:44
+categories:
+    - DBCP
+tags:
+  - DBCP
+  - 数据库连接池
+description: DBCP数据连接池参数介绍
 ---
 ![](/images/databasepool.jpg "")
 DBCP数据连接池参数介绍，相关配置，和DBCP是如何创建数据源，如何缓存和管理连接池的；最核心的部分，一个是连接池，第二个是连接，第三个则是连接池和连接的关系，在此表现为一对多的互相引用。

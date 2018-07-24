@@ -1,7 +1,7 @@
 # Menus
 menu:
-  首页: home
-  归档: archive
+  首页: index.html
+  归档: archives
   标签: tags
   关于: about
 
@@ -25,13 +25,6 @@ customize:
     sidebar: right # sidebar position, options: left, right or leave it empty
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
-    social_links:
-        github: http://github.com/zhangzui/hexo-theme-icarus
-        twitter: /
-        facebook: /
-        dribbble: /
-        rss: /
-    social_link_tooltip: true # enable the social link tooltip, options: true, false
 
 # Widgets
 widgets:
