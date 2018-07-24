@@ -11,7 +11,7 @@ customize:
         enabled: true
         width: 40
         height: 40
-        url: images/logo.png
+        url: images/myclass.jpg
     profile:
         enabled: true # Whether to show profile bar
         fixed: true

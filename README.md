@@ -2,3 +2,4 @@
 
 ###[Preview](http://zspace.top/)
 
+hexo new page "about"
