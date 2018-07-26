@@ -1,6 +1,6 @@
 # Menus
 menu:
-  首页: home
+  首页: /
   归档: archives
   标签: tags
   关于: about
