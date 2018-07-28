@@ -37,7 +37,8 @@ statement timeout用来限制statement的执行时长，timeout的值通过调�
 statement timeout的具体值需要依据应用本身的特性而定，并没有可供推荐的配置。
 
 MySQL JDBC Statement的QueryTimeout处理过程
-1. 通过调用Connection的createStatement()方法创建statement
+
+>1. 通过调用Connection的createStatement()方法创建statement
 2. 调用Statement的executeQuery()方法
 3. statement通过自身connection将query发送给MySQL数据库
 4. statement创建一个新的timeout-execution线程用于超时处理
