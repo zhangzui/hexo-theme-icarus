@@ -10,7 +10,8 @@ https://www.cnblogs.com/edwardlauxh/archive/2010/04/25/1918603.html
 http://blog.csdn.net/lifuxiangcaohui/article/details/37992725
 #一：基本参数
 参数	描述
-  -Xms	最小堆大小
+
+  >-Xms	最小堆大小
   -Xmx	最大堆大小
   -Xmn	新生代大小
   -XX:PermSize	永久代大小
@@ -33,7 +34,7 @@ a.#出现 OOME 时生成堆 dump:-XX:+HeapDumpOnOutOfMemoryError
 1:大对象直接在老年代分配：
 Serial和ParNew两款收集器提供了-XX:PretenureSizeThreshold的参数, 令大于该值的大对象直接在老年代分配, 这样做的目的是避免在Eden区和Survivor区之间产生大量的内存复制(大对象一般指 需要大量连续内存的Java对象, 如很长的字符串和数组), 因此大对象容易导致还有不少空闲内存就提前触发GC以获取足够的连续空间.
 
--Xms768m -Xmx1280m  jvm堆的最小值和最大值设置，一般设成相同值，避免频繁分配堆空间
+>-Xms768m -Xmx1280m  jvm堆的最小值和最大值设置，一般设成相同值，避免频繁分配堆空间
 -XX:NewSize=128m -XX:MaxNewSize=128m  年轻代最小值和最大值设置（年轻代设定了，年老代也就定了），也可以用参数-XX:NewRatio=4，年老代和年轻代的大小比，这里128m有点小了，官方建议的是heap的3/8，差不多280m
 -XX:PermSize=96m -XX:MaxPermSize=128m 持久代最小值和最大值设置
 -XX:MaxTenuringThreshold=0  经过多少次minor gc 后进入年老代,设置为0的话直接进入年老代，这是不太合理的，正常应该在年轻代多呆一段时间，真正需要到年老代的才转过去

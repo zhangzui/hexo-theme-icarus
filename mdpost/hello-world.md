@@ -1,5 +1,5 @@
 ---
-title: Hexo Hello World
+title: Hexo启动
 date: 2018-07-23 23:47:44
 categories:
     - Hexo
