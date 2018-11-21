@@ -2,11 +2,11 @@
 <% if (Array.isArray(theme.widgets) && theme.widgets.length > 0) { %>
 <aside id="sidebar">
     <div class="widget-wrap">
-        <h3 class="widget-title">Myclass社区</h3>
+        <h3 class="widget-title"><p>Myclass社区<p></h3>
         <div class="widget">
-            <img src="/images/myclass.jpg"/>
+            <img src="/images/qrmyclass.jpg"/>
         </div>
-        <p>Java技术交流社区<p>
+
     </div>
    <% theme.widgets.forEach(function(widget) { %>
         <%- partial('widget/' + widget) %>
