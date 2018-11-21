@@ -1,8 +1,12 @@
 ---
 title: 网络运输层
-date: 2018-11-20 23:40:44
-categories:网络运输层
-tags:[网络运输层,TCP,UDP]
+date: 2018-11-20 23:40:44 #文章生成時間
+categories:
+    - 网络运输层 TCP UDP
+tags:
+  - 网络运输层
+  - TCP
+  - UDP
 description: 网络运输层TCP&UDP
 ---
 
