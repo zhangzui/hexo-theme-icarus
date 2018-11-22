@@ -1,5 +1,6 @@
 ---
 title: linux常用命令介绍
+date: 2018-06-01 23:47:44
 ---
 ![](/images/linuxcomand.jpg "")
 linux常用命令介绍

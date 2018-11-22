@@ -1,5 +1,6 @@
 ---
 title: my-sharding-jdbc
+date: 2018-06-01 23:47:44
 ---
 ![](/images/shardingjdbc.jpg "")
 ShardingJDBC001简单的例子，配置信息的初始化,以及源码解析

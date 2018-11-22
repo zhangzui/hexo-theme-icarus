@@ -1,5 +1,6 @@
 ---
 title: 数据连接池DBCP
+date: 2018-06-01 23:47:44
 ---
 ![](/images/dbcppool.jpg "")
 数据连接池DBCP,参数配置信息

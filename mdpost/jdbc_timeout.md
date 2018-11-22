@@ -1,5 +1,6 @@
 ---
 title: 了解JDBC的超时机制
+date: 2018-06-01 23:47:44
 ---
 ![](/images/jdbc_timeout.jpg "")
 了解JDBC的超时机制，了解statement timeout和transaction timeout以及socket timeout

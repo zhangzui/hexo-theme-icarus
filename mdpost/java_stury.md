@@ -1,5 +1,6 @@
 ---
 title: java工程师必须了解的知识
+date: 2018-06-01 23:47:44
 ---
 
 ![](/images/java_stury.jpg "")
