@@ -2,7 +2,7 @@
 title: 域名解析详解
 date: 2018-11-22 23:40:44
 categories:
-    - DNS解析的全过程，以及DNS服务器详解
+    - DNS解析的全过程
 tags:
   - 网络应用层
 description: DNS解析的全过程，以及DNS服务器详解
