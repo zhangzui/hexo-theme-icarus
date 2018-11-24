@@ -18,7 +18,7 @@ customize:
         avatar: css/images/logo.jpg
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: 张最最
-        author_title: java Developer & Designer
+        author_title: 要么庸俗，要么孤独
         location: China BeiJing
         follow: https://github.com/zhangzui
     highlight: monokai
