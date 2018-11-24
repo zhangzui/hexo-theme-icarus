@@ -1,3 +1,3 @@
-title: "Categories"
+title: "categories"
 layout: "categories"
 ---
