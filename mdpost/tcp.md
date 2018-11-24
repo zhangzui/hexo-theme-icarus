@@ -10,7 +10,7 @@ description: 网络运输层TCP&UDP
 ---
 
 今天想尝试写一下TCP相关的知识总结，感觉这是一个很复杂的东西，以下是基于谢希仁编写的《计算机网络》相关的TCP的最基本的知识。
-![](/images/tcp.jpeg "")
+![](/images/tcp&UDP.jpeg "")
 <!--more-->
 
 ### 简介TCP&UDP

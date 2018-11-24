@@ -1,11 +1,11 @@
 ---
 title: 域名解析详解
-date: 2018-11-22 23:40:44 #文章生成時間
+date: 2018-11-22 23:40:44
 categories:
-    - 域名解析详解
+    - DNS解析的全过程，以及DNS服务器详解
 tags:
   - 网络应用层
-description: 网络运输层TCP&UDP
+description: DNS解析的全过程，以及DNS服务器详解
 ---
 
 域名解析就是我们常听到的DNS（Domain Name System），我们平时自己电脑上的网络配置信息都会有这一项，DNS服务器IP地址，手机连上网都会有DNS
