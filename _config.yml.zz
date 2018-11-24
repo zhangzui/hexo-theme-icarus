@@ -3,7 +3,7 @@ menu:
   首页: /
   归档: /archives
   标签: /tags
-  关于: /images/zzz.pdf
+  关于: /about
 
 skin_render:
    /about
