@@ -84,7 +84,7 @@ comment:
 share: default # options: jiathis, bdshare, addtoany, default
 
 # setting favicon
-favicon: /images/myclass.ico
+favicon: css/images/favicon.ico
 
 # Plugins
 plugins:
