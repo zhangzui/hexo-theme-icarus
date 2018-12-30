@@ -8,7 +8,7 @@ tags:
 description: synchronized底层原理
 ---
 synchronized如何实现同步的，底层实现原理是啥？什么是对象的内置锁，保存在哪里，等待和唤醒都是如何实现的，今天我们走进jvm锁的世界。
-![](/images/lock/monitor.png"")
+![](/images/lock/monitor.png "")
 <!--more-->
 
 # 问题
