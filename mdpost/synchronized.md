@@ -1,11 +1,11 @@
 ---
-title: 域名解析详解
-date: 2018-11-22 23:40:44
+title: synchronized底层原理
+date: 2018-12-31 00:40:44
 categories:
-    - DNS解析的全过程
+    - synchronized底层原理
 tags:
   - 网络应用层
-description: DNS解析的全过程，以及DNS服务器详解
+description: synchronized底层原理
 ---
 synchronized如何实现同步的，底层实现原理是啥？什么是对象的内置锁，保存在哪里，等待和唤醒都是如何实现的，今天我们走进jvm锁的世界。
 ![](/images/lock/monitor.png"")
